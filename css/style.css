@@ -114,7 +114,7 @@ h5,
 h6 {
     line-height: 1.3em;
     margin-top: 0;
-    color: #2d3559;
+    color: #132573;
 }
 
 h1 {
@@ -235,7 +235,7 @@ input[type="submit"] {
     transition: all 0.3s ease 0s;
     background: transparent;
     position: relative;
-    background-color: #2d3559;
+    background-color: #132573;
     font-size: 12px;
     border-radius: 25px;
     font-weight: 600;
@@ -1338,7 +1338,7 @@ blockquote.style2:after {
 }
 
 .mini-cart .count {
-    background-color: #00aeef;
+    background-color: #0481FF;
     border-radius: 50%;
     color: #fff;
     font-size: 10px;
@@ -1367,16 +1367,16 @@ blockquote.style2:after {
 }
 
 .mini-cart .group-button .check-out {
-    border: 1px solid #e5e5e5;
-    background-color: #e5e5e5;
-    color: #343434;
+    border: 1px solid #C7E5FA;
+    background-color:#C7E5FA;
+    color: #132573;
     padding: 15px 0px;
 }
 
 .mini-cart .group-button .check-out:hover {
-    background-color: #e5e5e5;
-    color: #343434;
-    border-color: #e5e5e5;
+    background-color: #C7E5FA;
+    color: #132573;
+    border-color: #C7E5FA;
 }
 
 /* BOX CONTROL*/
@@ -1748,7 +1748,7 @@ blockquote.style2:after {
 
 .header.style3 .main-menu > li > a:hover,
 .header.style3 .main-menu > li.active > a {
-    color: #2d3559;
+    color: #132573;
     font-weight: 600;
 }
 
@@ -3068,8 +3068,8 @@ DS .product-list .product-item {
 /* PRODUCT STYLE 3*/
 
 .product-item.style3 .add_to_cart_button {
-    border: 1px solid #2d3559;
-    background-color: #2d3559;
+    border: 1px solid #0481FF;
+    background-color: #0481FF;
     color: #fff;
     margin-top: 15px;
     font-weight: 600;
@@ -3531,7 +3531,7 @@ DS .product-list .product-item {
 }
 
 .widget ul li a {
-    color: #2d3559;
+    color: #132573;
 }
 
 .widget_product_categories li,
@@ -4140,13 +4140,13 @@ FOOTER
 -----------------------------------*/
 
 .footer {
-    background: #041e41;
+    background: #E6F1F7;
     padding: 20px 0 0;
     background-position: left bottom;
-    color: #fff;
+    color:#132573;
 }
 .contact-info ul li a {
-    color: #fff;
+    color: #132573;
 }
 /*.footer .flex-flow{
     flex-flow: row wrap;
@@ -4160,7 +4160,7 @@ FOOTER
 
 .footer .widget .widget-title {
     font-size: 16px;
-    color: #fff;
+    color: #132573;
     margin-bottom: 20px;
     text-transform: uppercase;
     font-weight: 600;
@@ -4182,7 +4182,7 @@ FOOTER
 }
 
 .footer .contact-info .phone {
-    color: #545454;
+    color: #132573;
     font-size: 18px;
 }
 
@@ -4197,12 +4197,12 @@ FOOTER
 }
 
 .footer .our-service ul li a {
-    color: #fff;
+    color: #132573;
     font-weight: 600;
 }
 
 .footer .our-service ul li a:hover {
-    color: #fff;
+    color: #132573;
 }
 
 .footer .widget_social .social a {
@@ -4225,11 +4225,11 @@ FOOTER
 
 .footer .widget_social .social a:hover {
     background-color: #7d7b7b;
-    color: #545454;
+    color: #132573;
 }
 
 .footer .footer-bottom {
-    color: #fff;
+    color: #132573;
     margin-top: 30px;
     padding-top: 20px;
 
@@ -4760,7 +4760,7 @@ FOOTER
 .section-title h3 {
     font-size: 24px;
     text-transform: uppercase;
-    color: #2d3559;
+    color: #132573;
     margin-bottom: 0;
     position: relative;
     display: inline-block;
@@ -5572,7 +5572,7 @@ FOOTER
     width: 0px;
     height: 2px;
     display: block;
-    background-color: #2d3559;
+    background-color: #132573;
     margin: 0 auto;
     margin-top: 8px;
     content: '';
@@ -6227,7 +6227,7 @@ FOOTER
  -------------------------------*/
 
 .product-details-full {
-    background-color: #eaeaea;
+    background-color: #F7F7F7;
     padding: 30px 0;
     margin-top: -1px;
 }
@@ -9754,7 +9754,7 @@ RESPONSIVE
 
 li.info-pts {
     border-radius: 10px;
-    background-color: #2d3559;
+    background-color: #132573;
     padding: 11px 18px;
     background-repeat: no-repeat;
     background-position: top left;

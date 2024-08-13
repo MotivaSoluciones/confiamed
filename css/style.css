@@ -7955,7 +7955,7 @@ BLOG PAGE
     position: fixed;
     z-index: 9999;
     right: 10px;
-    bottom: 100px;
+    bottom: 60px;
     background-color: #0381FF;
     display: none;
     color: #fff;
@@ -9899,7 +9899,7 @@ li.info-pts {
     position: fixed;
     bottom: 5px;
     right: 0px;
-    width: 80px;
+    width: 53px;
    
 }
 
@@ -10126,5 +10126,5 @@ li.info-pts span {
 }
 
 .header.style3 .main-menu > li:nth-child(6){
-    display: none;
+   
 }
